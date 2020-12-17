@@ -1,0 +1,18 @@
+.searchResult {
+  background-color: #fff;
+  border-radius: 5px;
+  padding: 5px 25px;
+  margin: 10px;
+
+  a {
+    color: #457b9d;
+
+    &:hover {
+      color: #1d3557;
+    }
+  }
+
+  h4 {
+    margin-bottom: 0;
+  }
+}

@@ -1,0 +1,14 @@
+.search {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  h1 {
+    font-weight: 100;
+  }
+
+  &__bar {
+    margin-right: 5px;
+  }
+
+}
